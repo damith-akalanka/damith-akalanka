@@ -6,8 +6,16 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akalankadamith2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/damith-akalanka)
+<p align="center">
+  <a href="mailto:akalankadamith2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/damith-akalanka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/damith-akalanka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/damith_akalanka"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://instagram.com/damith_akalanka"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/damith.akalanka"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://wa.me/94770000000"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=damith-akalanka&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
@@ -85,12 +93,14 @@ I genuinely enjoy turning tangled backend logic into clean, maintainable code ‚Ä
 
 <div align="center">
 
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=damith-akalanka&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damith-akalanka&layout=compact&theme=radical&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=damith-akalanka&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Damith's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damith-akalanka&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-trophies.vercel.app/?username=damith-akalanka&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-readme-trophies.vercel.app/?username=damith-akalanka&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 
 </div>
 
@@ -98,11 +108,18 @@ I genuinely enjoy turning tangled backend logic into clean, maintainable code ‚Ä
 
 <div align="center">
 
-### ü§ù Let's Build Something Together
+### ü§ù Let's Connect & Build Together
 
-I'm always open to interesting conversations, collaborations, or just talking tech. Feel free to reach out!
+I'm always open to interesting collaborations or just talking tech. Feel free to reach out through any of the channels below!
 
-<a href="mailto:akalankadamith2004@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-0E75B6?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:akalankadamith2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/damith-akalanka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/damith_akalanka"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://instagram.com/damith_akalanka"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-stats&logo=instagram&logoColor=white" /></a>
+  <a href="https://facebook.com/damith.akalanka"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://wa.me/94770000000"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 <br/><br/>
 
